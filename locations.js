@@ -1,0 +1,1215 @@
+/* Auto-generated locations dataset */
+window.LOCATIONS = [
+  {
+    "id": "FL-0001",
+    "ad": "Villa Firuze",
+    "alternatifAdlar": [
+      "Villa Fairuze"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/U2PhoPSzYw38ZYtE9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0002",
+    "ad": "Mozaik Villa",
+    "alternatifAdlar": [
+      "Dylan"
+    ],
+    "bolge": "Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/YeM8gC3rWfLWBiUN8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0003",
+    "ad": "Villa Sapphire E2",
+    "alternatifAdlar": [
+      "Villa Safir"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/ahSEud3yTZuXco5Y6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0004",
+    "ad": "Mulberry Suit Aparts",
+    "alternatifAdlar": [
+      "Apart Mulberry"
+    ],
+    "bolge": "Kalkan - Kaş",
+    "tur": "Apart / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/9JGLNRWofyaYuBzj9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0005",
+    "ad": "Palm Villa",
+    "alternatifAdlar": [
+      "Palm Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/UeHokJKqQjDTG1e79",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0006",
+    "ad": "Fox Villa",
+    "alternatifAdlar": [
+      "Simon Fox"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/4Ktc4dRVYUMYFfBZ7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0007",
+    "ad": "Körfez Residence",
+    "alternatifAdlar": [
+      "Körfez Rezidans"
+    ],
+    "bolge": "Fethiye",
+    "tur": "Apart / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/i7GC2mr22YdYfvmr7",
+    "girisTarifi": "İskele ile Ece Saray arasında"
+  },
+  {
+    "id": "FL-0008",
+    "ad": "Area Sitesi",
+    "alternatifAdlar": [
+      "Site Area"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/6uCV2tXjYqxuF4MG9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0009",
+    "ad": "Mulberry Villas",
+    "alternatifAdlar": [
+      "Villa Mulberry"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/rjZHrVE3RSfwRPiP6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0010",
+    "ad": "Peach Rose Villa",
+    "alternatifAdlar": [
+      "Peach Rose"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/itPQWFX6HHhQHHh86",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0011",
+    "ad": "Mavi Villa",
+    "alternatifAdlar": [
+      "Villa Mavi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/mXxqvsAy1YoVYHzf8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0012",
+    "ad": "Villa Ellini",
+    "alternatifAdlar": [
+      "Ellini Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/pkmUPPQ1u43wWJne6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0013",
+    "ad": "Karagözler Apt",
+    "alternatifAdlar": [
+      "Yaşam Yapı Fethiye"
+    ],
+    "bolge": "Fethiye - Karagözler",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/uKa6ra3eryvyMBZw9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0014",
+    "ad": "Aydın Apart",
+    "alternatifAdlar": [
+      "Aparts Aydın"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/3S91p58ihjYSky8t8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0015",
+    "ad": "Daphne Residence",
+    "alternatifAdlar": [
+      "Defne Residence"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/eg7YeYRLc7eLqCMC6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0016",
+    "ad": "Saray Koop",
+    "alternatifAdlar": [
+      "Saray Konut Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/qnX83y9PcA8LAnK8A",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0017",
+    "ad": "Holiday Village Hotel",
+    "alternatifAdlar": [
+      "Holiday Village"
+    ],
+    "bolge": "Sarıgerme",
+    "tur": "Otel",
+    "googleMapsLink": "https://maps.app.goo.gl/4meU6jW2b6yupGTq7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0018",
+    "ad": "Sunteos Villa",
+    "alternatifAdlar": [
+      "SunTeos Villa Suites"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/ymeYKamdMv8fA2m67",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0019",
+    "ad": "Angora Apart",
+    "alternatifAdlar": [
+      "Comfortable Room in Amazing Terrace Flat"
+    ],
+    "bolge": "Fethiye",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/Z1Yu7bKWCtKUDmDf8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0020",
+    "ad": "Villa Ela",
+    "alternatifAdlar": [
+      "Sarıgerme Villa Ela"
+    ],
+    "bolge": "Sarıgerme",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/WXekdgfzbCYUwqr68",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0021",
+    "ad": "Villa Lycia",
+    "alternatifAdlar": [
+      "Lycia Villa Sarıgerme",
+      "Sarıgerme Royal Links"
+    ],
+    "bolge": "Sarıgerme",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/qAavfLtd2AzDDbg17",
+    "girisTarifi": "Sitenin girişinde hemen sağ rampada merdivenlerin orası"
+  },
+  {
+    "id": "FL-0022",
+    "ad": "Villa Jasmine 3",
+    "alternatifAdlar": [
+      "Villa Jasmine 3"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/Y8dBz23ZgETVWyDb7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0023",
+    "ad": "Alya Villa",
+    "alternatifAdlar": [
+      "Villa Alya"
+    ],
+    "bolge": "Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/p8VoKrXWrS5K5hHd7",
+    "girisTarifi": "BAYRAM : 0534 6994202"
+  },
+  {
+    "id": "FL-0024",
+    "ad": "Mavi Belde",
+    "alternatifAdlar": [
+      "Mavi Belde"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/Ma1MGGaB64HaNfaW7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0025",
+    "ad": "Casa Oliva City",
+    "alternatifAdlar": [
+      "Casa Oliva #2"
+    ],
+    "bolge": "Günlükbaşı",
+    "tur": "Site / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/5ziidP363RN2ZbC56",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0026",
+    "ad": "Sarıyıldız Apart",
+    "alternatifAdlar": [
+      "Sarıyıldız Apart Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/nUrnJQiu5yxKMCn59",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0027",
+    "ad": "Connifer Apart",
+    "alternatifAdlar": [
+      "Connifer Çiftlik"
+    ],
+    "bolge": "Çiftlik",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/gU6qDMd4W1T7HJYb8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0028",
+    "ad": "Villa Bellamy",
+    "alternatifAdlar": [
+      "Bellamy Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/pk2hLSR4chtbWj7T8",
+    "girisTarifi": "Sokaga girince sagda kucuk demir kapi var girince arkadaki villa"
+  },
+  {
+    "id": "FL-0029",
+    "ad": "Palm Beach 2",
+    "alternatifAdlar": [
+      "Palm Beach 2 Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/VJN1snqHuET7j9m87",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0030",
+    "ad": "Su Apartmans",
+    "alternatifAdlar": [
+      "Su Aparts"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/Hka88cSjptCeFeNB6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0031",
+    "ad": "Villa Diana",
+    "alternatifAdlar": [
+      "Diana Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/befxJ9ZVKYtN6EDh7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0032",
+    "ad": "Stevens Villa",
+    "alternatifAdlar": [
+      "Villa Stevens"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/1sad3ECdVFLiSLrv8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0033",
+    "ad": "Villa Life",
+    "alternatifAdlar": [
+      "Villa Hayat - Villa Life"
+    ],
+    "bolge": "Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/tCQPbNqkGjEfKToM7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0034",
+    "ad": "Kayapark Sitesi",
+    "alternatifAdlar": [
+      "Kayapark - Çalış"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/bTjePTv5rPMPSVZi9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0035",
+    "ad": "Villa Mango",
+    "alternatifAdlar": [
+      "Mango Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/3LvSd1Md5LyCKiow7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0036",
+    "ad": "Fatih Koç Evi",
+    "alternatifAdlar": [
+      "Fatih Koç'un Evi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Ev / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/FFBatzKETCcdC73P8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0037",
+    "ad": "Diamond Sitesi",
+    "alternatifAdlar": [
+      "Diamond Site (Likya Bal)"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/dysk2Q6zYVaELYcq8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0038",
+    "ad": "Metin Apart",
+    "alternatifAdlar": [
+      "Metin Apart - Karen Pop - Janet Cook"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/Lca3xKfbrTndF8MH7",
+    "girisTarifi": "2 ayrı sokaktan site girişi var"
+  },
+  {
+    "id": "FL-0039",
+    "ad": "Lily Apartments",
+    "alternatifAdlar": [
+      "Lily Apartments - Rainbow"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/cbLd1r1i1mxtUH9w5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0040",
+    "ad": "Menekşe Villa",
+    "alternatifAdlar": [
+      "Menekşe Villa - Rainbow"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/H2q5ZGbsJcL4hfEg6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0041",
+    "ad": "Lotus Apart 1",
+    "alternatifAdlar": [
+      "Lotus Apart 1"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/ux2jUrG3RJ1CUjt28",
+    "girisTarifi": "Rainbow Lily Apartments - Menekşe Villa ile aynı bölge"
+  },
+  {
+    "id": "FL-0042",
+    "ad": "Zakkum Sitesi",
+    "alternatifAdlar": [
+      "Zakkum Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/WbtuZquCbpP8VX5Y7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0043",
+    "ad": "Lotus Villa",
+    "alternatifAdlar": [
+      "Villa Lotus"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/YX2LeLGcDqRQuaGi9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0044",
+    "ad": "Lagoon Vista",
+    "alternatifAdlar": [
+      "Lagoon Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/rDHWTTUzvmpdmAvi7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0045",
+    "ad": "Villa Jack",
+    "alternatifAdlar": [
+      "Jack Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/DXmSb8vdZsNVtjf58",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0046",
+    "ad": "Körfez Apart",
+    "alternatifAdlar": [
+      "Körfez Apart"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart / Site",
+    "googleMapsLink": "https://maps.app.goo.gl/v1ouTD3VXgwb9JgB9",
+    "girisTarifi": "B ve C blok 2 girişi var. C Blok girişi Nevada Otel sokağında"
+  },
+  {
+    "id": "FL-0047",
+    "ad": "Moon Villa",
+    "alternatifAdlar": [
+      "Villa Moon"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/FWsPB1tLPvvK1Ti58",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0048",
+    "ad": "Selvievler",
+    "alternatifAdlar": [
+      "Selvievler Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/sqQR6oeVmddxJXgu8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0049",
+    "ad": "Boyd Villa",
+    "alternatifAdlar": [
+      "Andy Boyd"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/dpdWdgCq69bL9f8h7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0050",
+    "ad": "Mavi Villa",
+    "alternatifAdlar": [
+      "Jacque Harvey - Philip Harvey"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/atng3Z5iVbETHfxP7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0051",
+    "ad": "Palm Beach A6",
+    "alternatifAdlar": [
+      "A6 Palm Beach"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/AUVomXE5nHWFRVR36",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0052",
+    "ad": "Palm Beach C5",
+    "alternatifAdlar": [
+      "C5 Palm Beach"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/BZ3PxAQ2rSyMLfU59",
+    "girisTarifi": "Sitenin içinde"
+  },
+  {
+    "id": "FL-0053",
+    "ad": "Palm Beach E5",
+    "alternatifAdlar": [
+      "E5 Palm Beach"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/AzeQwED8vGsTZ3Ft7",
+    "girisTarifi": "sitenin içinde"
+  },
+  {
+    "id": "FL-0054",
+    "ad": "Summer Apart",
+    "alternatifAdlar": [
+      "Summer Apart no 1 - rainbow"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site / apart",
+    "googleMapsLink": "https://maps.app.goo.gl/iZgBCSeQaEU6KmDm8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0055",
+    "ad": "Legend",
+    "alternatifAdlar": [
+      "Çalış Legend"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/oe3MwWQNfxy3vkPw5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0056",
+    "ad": "Villa Loumar",
+    "alternatifAdlar": [
+      "Loumar Villa"
+    ],
+    "bolge": "Çalış / Çiftlik",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/MwrLhWTnnkx4orWY9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0057",
+    "ad": "Suzanne Akers",
+    "alternatifAdlar": [
+      "Akers Villa"
+    ],
+    "bolge": "Çalış / Çiftlik",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/8XZsF3SCpFbmsviT6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0058",
+    "ad": "Çalış Villa",
+    "alternatifAdlar": [
+      "Villa Çalış"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/MTq1Vh5GbDdfrRGY6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0059",
+    "ad": "Çiçek Sitesi",
+    "alternatifAdlar": [
+      "Çiçek Sitesi"
+    ],
+    "bolge": "Çalış / Çiftlik",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/ybuhxjUP4CwZE8Fk8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0060",
+    "ad": "Golden Moon",
+    "alternatifAdlar": [
+      "Golden Moon Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/sKBKA2HSW7KtdFKT8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0061",
+    "ad": "Lissa Links",
+    "alternatifAdlar": [
+      "Lisa Links"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/ZQSgnvxm8D4bi69k6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0062",
+    "ad": "Lissa Park",
+    "alternatifAdlar": [
+      "Lisa Park"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site / Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/x9iZATgEhazSnsWY8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0063",
+    "ad": "Belize Apart",
+    "alternatifAdlar": [
+      "Belize Apt."
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/a83pxPZy3btovTf96",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0064",
+    "ad": "Ronaldo Anita",
+    "alternatifAdlar": [
+      "Anita Ronaldo"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/343jqqmx9uwxqMM59",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0065",
+    "ad": "Ege 4 Sitesi",
+    "alternatifAdlar": [
+      "Ege-4"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/4MghpDEYfzMJXpKMA",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0066",
+    "ad": "Jasmin 4",
+    "alternatifAdlar": [
+      "Yasmin 4"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/RtXZXPAmUFx2kDoV6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0067",
+    "ad": "Jasmin 3",
+    "alternatifAdlar": [
+      "Yasmin 3"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/xWCfnFQJiEHkskbH6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0068",
+    "ad": "Jasmin 2",
+    "alternatifAdlar": [
+      "Yasmin 2"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/hXsniS9r5SGpxxQk6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0069",
+    "ad": "Mücevherkent",
+    "alternatifAdlar": [
+      "Mücevherkent Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/bTBzKN8f3SFokVAR9",
+    "girisTarifi": "3 farklı girişi var (anayol / otopark / arka cephe)"
+  },
+  {
+    "id": "FL-0070",
+    "ad": "Villa Elina",
+    "alternatifAdlar": [
+      "Elina Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/UhdkCuwtySSe4LmWA",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0071",
+    "ad": "Mulberry",
+    "alternatifAdlar": [
+      "Mulberry aa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/eyM1XMo2dnWaH8qx5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0072",
+    "ad": "Limon 2",
+    "alternatifAdlar": [
+      "Limon-2"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/PNpEftBrWyR8uHFYA",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0073",
+    "ad": "Körfez Life",
+    "alternatifAdlar": [
+      "Körfez Life"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/qJnoaqe27NPrVMWP8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0074",
+    "ad": "Orange Park",
+    "alternatifAdlar": [
+      "OrangePark"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/FcvDKumoJu5rDHKV8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0075",
+    "ad": "Forest Valley",
+    "alternatifAdlar": [
+      "Forest Valley Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/QEqE9MgNDUeG8Uuj9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0076",
+    "ad": "Forest Villa",
+    "alternatifAdlar": [
+      "Villa Forest"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/Xbz4mhw4LokcPnpv5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0077",
+    "ad": "Danny Blacker",
+    "alternatifAdlar": [
+      "Blacker Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/qLvg58jpLUy7eG56A",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0078",
+    "ad": "Lemon Tree",
+    "alternatifAdlar": [
+      "Lemon Tree Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/YNPb5tcZgUTHkbPX9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0079",
+    "ad": "Forest Hill 2",
+    "alternatifAdlar": [
+      "Forest Hill 2"
+    ],
+    "bolge": "Taşyaka",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/2ddJgBCKnJ1Djcxv6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0080",
+    "ad": "Olivia Apart",
+    "alternatifAdlar": [
+      "Olivia Apart"
+    ],
+    "bolge": "Taşyaka",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/EiPRNGaXdL2GvAgv6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0081",
+    "ad": "Lagoon Apart",
+    "alternatifAdlar": [
+      "Lagoon Apt."
+    ],
+    "bolge": "Taşyaka",
+    "tur": "Apart / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/fVLD7V5Lmv1XwSxj9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0082",
+    "ad": "Peter Tisma",
+    "alternatifAdlar": [
+      "Sian Francis Peter Tisma"
+    ],
+    "bolge": "Üzümlü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/T3fn2jLY7Zc9wTWG8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0083",
+    "ad": "Karen Turner",
+    "alternatifAdlar": [
+      "Karen Turner Villa"
+    ],
+    "bolge": "Üzümlü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/CEjNueyFmAWrmmck8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0084",
+    "ad": "Araf Saddıq Villa",
+    "alternatifAdlar": [
+      "Villa Araf Saddıq"
+    ],
+    "bolge": "Üzümlü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/gfz1Y9XDDWQ3fDtE6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0085",
+    "ad": "Villa Maria",
+    "alternatifAdlar": [
+      "Maria Villa"
+    ],
+    "bolge": "Üzümlü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/H87VQh9B87b7i6nV9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0086",
+    "ad": "Kerry Ann",
+    "alternatifAdlar": [
+      "Ann Kerry"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/YeZ5m7Q3RdBkzZo4A",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0087",
+    "ad": "Melissa Villa",
+    "alternatifAdlar": [
+      "Villa Melisa",
+      "Barry Andrews"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/W8WrceHUzFbY92dR6",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0088",
+    "ad": "Larisa Villa",
+    "alternatifAdlar": [
+      "Villa Larisa"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/XZWwaMr3QeWsyuxt8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0089",
+    "ad": "Villa Rose - Yakamoz",
+    "alternatifAdlar": [
+      "Rose Villa - Yakamoz"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/GMQK1R9jvVsQhsuW8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0090",
+    "ad": "Villa Malik",
+    "alternatifAdlar": [
+      "Malik Villa Naijia Malik"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/ySuBe5Wb8YZv4G4j7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0091",
+    "ad": "Oaklands Villa",
+    "alternatifAdlar": [
+      "Oaklands Villaları"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/rRWnhztBDX8cTR6WA",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0092",
+    "ad": "Körfez Dream",
+    "alternatifAdlar": [
+      "Dream Körfez Villaları"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/VN8K1t3ibZo3vnju8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0093",
+    "ad": "Mendos Villa",
+    "alternatifAdlar": [
+      "Villa Mendos"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/CAnVBoFb8Ype1i397",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0094",
+    "ad": "Villa Rose",
+    "alternatifAdlar": [
+      "Rose Villa"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/1N2nKfn63d3YFc4t7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0095",
+    "ad": "Antas Deluxe Aparts",
+    "alternatifAdlar": [
+      "Antas Aparts"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/7gQjXn7RFV7e5mkQ8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0096",
+    "ad": "Ertuğrul Eldirek",
+    "alternatifAdlar": [
+      "Eldirek Ev"
+    ],
+    "bolge": "Eldirek",
+    "tur": "Ev / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/Bckjy1LhUiqZGFU56",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0097",
+    "ad": "Oykun Apart",
+    "alternatifAdlar": [
+      "Oykun"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site / Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/NWFtnXtHcV1XYmsW7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0098",
+    "ad": "Villa Hera",
+    "alternatifAdlar": [
+      "Hera Villa"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/5GA2cLFcmFZ5wBxw8",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0099",
+    "ad": "Malikane Villa",
+    "alternatifAdlar": [
+      "Hakan Çınar Malikane Villa"
+    ],
+    "bolge": "Sarıgerme",
+    "tur": "Villa / Malikane",
+    "googleMapsLink": "https://maps.app.goo.gl/b5ykjXwLgjkXXTZy5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0100",
+    "ad": "Villa Galp",
+    "alternatifAdlar": [
+      "Galp Villa"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/MWJ1nmYyYqUtjLF19",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0101",
+    "ad": "New Moon",
+    "alternatifAdlar": [
+      "New Moon"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/sJ5bgx181VcsUxvU9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0102",
+    "ad": "Stella Aparts",
+    "alternatifAdlar": [
+      "Apart Stella"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart",
+    "googleMapsLink": "https://maps.app.goo.gl/ZbpKd29uAGfvqEEN7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0103",
+    "ad": "Kayaköy Piramit Otel",
+    "alternatifAdlar": [
+      "Piramit Otel Kayaköy"
+    ],
+    "bolge": "Kayaköy",
+    "tur": "Otel",
+    "googleMapsLink": "https://maps.app.goo.gl/Kro4Ao4hdA1PDtSR7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0104",
+    "ad": "Berka Villa",
+    "alternatifAdlar": [
+      "Villa Berka"
+    ],
+    "bolge": "Ölüdeniz / Hisarönü",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/TS5nCDMcSBb1ujb37",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0105",
+    "ad": "Bahçeşir Koleji Çaylı Haslısaha",
+    "alternatifAdlar": [
+      "Çaylı Halısaha Bahçeşehir Koleji"
+    ],
+    "bolge": "Günlükbaşı",
+    "tur": "Apartman",
+    "googleMapsLink": "https://maps.app.goo.gl/TS5nCDMcSBb1ujb37",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0106",
+    "ad": "Bob Sue Evi",
+    "alternatifAdlar": [
+      "Bob & Sue Evi"
+    ],
+    "bolge": "Patlangıç",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/BKWUzsde7VLJY2eN7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0107",
+    "ad": "Kayaköy Polat Villa",
+    "alternatifAdlar": [
+      "Polat Villa Kayaköy 1 ve 2"
+    ],
+    "bolge": "Kayaköy",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/j8JZcsT8BdmbVDP5A",
+    "girisTarifi": "Villalar yan yana"
+  },
+  {
+    "id": "FL-0108",
+    "ad": "Villa Ophelia",
+    "alternatifAdlar": [
+      "Ophelia Villa"
+    ],
+    "bolge": "Hisarönü / Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/DhB9rqTU64AaBv6r9",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0109",
+    "ad": "Villa Rüya",
+    "alternatifAdlar": [
+      "Ruya Villa"
+    ],
+    "bolge": "Çiftlik",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/eftMEv9pvj1uXYm2A",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0110",
+    "ad": "Villa California",
+    "alternatifAdlar": [
+      "California Villa ve Malibu Villa - Erdem"
+    ],
+    "bolge": "Çamköy",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/pNFwwPtSubJJ4U4L6",
+    "girisTarifi": "Villalar yan yana"
+  }
+];
