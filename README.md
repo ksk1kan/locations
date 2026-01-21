@@ -12,10 +12,6 @@
 - Veri güncellemek için bu dosyayı değiştirip GitHub’a push etmen yeter.
 - Uygulama online açıldığında yeni veriyi alır; offline’da cache’deki son veri çalışır.
 
-## GitHub Pages Yayınlama
-1) Repo oluştur
-2) Bu klasördeki dosyaları repo köküne koy
-3) GitHub → Settings → Pages → Source: `Deploy from a branch` → Branch: `main` / `/root`
-4) Çıkan URL’yi şoförlerle paylaş
+##wekinq aka BAF
 
 > İlk kullanımda en az bir kez internet gerekir (dosyaları cihaza cache’lemek için).
