@@ -1210,5 +1210,38 @@
     "tur": "Villa",
     "googleMapsLink": "https://maps.app.goo.gl/pNFwwPtSubJJ4U4L6",
     "girisTarifi": "Villalar yan yana"
+  },
+  {
+    "id": "FL-0111",
+    "ad": "Özyuvam Vadi Residence",
+    "alternatifAdlar": [
+      "Falk Martin Kortenbruck"
+    ],
+    "bolge": "Taşyaka",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/ouvJdgkxPivzBX9h9",
+    "girisTarifi": "Büyük park ile karşılıklı, kapıda site güvenliği var."
+  },
+  {
+    "id": "FL-0112",
+    "ad": "Likya Garden",
+    "alternatifAdlar": [
+      "Sami Alasker"
+    ],
+    "bolge": "Taşyaka",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/6VpQmQgr5VZFWhVH8",
+    "girisTarifi": "Arayoldan girince ilk soldan gir, site girişi sağda"
+  },
+  {
+    "id": "FL-0113",
+    "ad": "Körfez Garden",
+    "alternatifAdlar": [
+      "Körfez Garden Sitesi"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/nJ3qEU9gPTasuNB57",
+    "girisTarifi": "Sitenin dışında kendi otoparkı mevcut."
   }
 ]
