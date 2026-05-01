@@ -46,9 +46,7 @@
   {
     "id": "FL-0005",
     "ad": "Palm Villa",
-    "alternatifAdlar": [
-      "Palm Villa"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Villa",
     "googleMapsLink": "https://maps.app.goo.gl/UeHokJKqQjDTG1e79",
@@ -157,7 +155,7 @@
     "id": "FL-0015",
     "ad": "Daphne Residence",
     "alternatifAdlar": [
-      "Defne Residence"
+      "Defne Residence / Apart / Site"
     ],
     "bolge": "Çalış",
     "tur": "Site",
@@ -223,8 +221,7 @@
     "id": "FL-0021",
     "ad": "Villa Lycia",
     "alternatifAdlar": [
-      "Lycia Villa Sarıgerme",
-      "Sarıgerme Royal Links"
+      "Lycia Villa Sarıgerme / Sarıgerme Royal Links"
     ],
     "bolge": "Sarıgerme",
     "tur": "Villa",
@@ -234,9 +231,7 @@
   {
     "id": "FL-0022",
     "ad": "Villa Jasmine 3",
-    "alternatifAdlar": [
-      "Villa Jasmine 3"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Villa",
     "googleMapsLink": "https://maps.app.goo.gl/Y8dBz23ZgETVWyDb7",
@@ -256,9 +251,7 @@
   {
     "id": "FL-0024",
     "ad": "Mavi Belde",
-    "alternatifAdlar": [
-      "Mavi Belde"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/Ma1MGGaB64HaNfaW7",
@@ -443,9 +436,7 @@
   {
     "id": "FL-0041",
     "ad": "Lotus Apart 1",
-    "alternatifAdlar": [
-      "Lotus Apart 1"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Apart / Villa",
     "googleMapsLink": "https://maps.app.goo.gl/ux2jUrG3RJ1CUjt28",
@@ -454,9 +445,7 @@
   {
     "id": "FL-0042",
     "ad": "Zakkum Sitesi",
-    "alternatifAdlar": [
-      "Zakkum Sitesi"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/WbtuZquCbpP8VX5Y7",
@@ -498,9 +487,7 @@
   {
     "id": "FL-0046",
     "ad": "Körfez Apart",
-    "alternatifAdlar": [
-      "Körfez Apart"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Apart / Site",
     "googleMapsLink": "https://maps.app.goo.gl/v1ouTD3VXgwb9JgB9",
@@ -641,9 +628,7 @@
   {
     "id": "FL-0059",
     "ad": "Çiçek Sitesi",
-    "alternatifAdlar": [
-      "Çiçek Sitesi"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış / Çiftlik",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/ybuhxjUP4CwZE8Fk8",
@@ -795,9 +780,7 @@
   {
     "id": "FL-0073",
     "ad": "Körfez Life",
-    "alternatifAdlar": [
-      "Körfez Life"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/qJnoaqe27NPrVMWP8",
@@ -861,9 +844,7 @@
   {
     "id": "FL-0079",
     "ad": "Forest Hill 2",
-    "alternatifAdlar": [
-      "Forest Hill 2"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Taşyaka",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/2ddJgBCKnJ1Djcxv6",
@@ -872,9 +853,7 @@
   {
     "id": "FL-0080",
     "ad": "Olivia Apart",
-    "alternatifAdlar": [
-      "Olivia Apart"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Taşyaka",
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/EiPRNGaXdL2GvAgv6",
@@ -950,8 +929,7 @@
     "id": "FL-0087",
     "ad": "Melissa Villa",
     "alternatifAdlar": [
-      "Villa Melisa",
-      "Barry Andrews"
+      "Villa Melisa / Barry Andrews"
     ],
     "bolge": "Ölüdeniz / Hisarönü",
     "tur": "Villa",
@@ -1104,9 +1082,7 @@
   {
     "id": "FL-0101",
     "ad": "New Moon",
-    "alternatifAdlar": [
-      "New Moon"
-    ],
+    "alternatifAdlar": [],
     "bolge": "Çalış",
     "tur": "Villa",
     "googleMapsLink": "https://maps.app.goo.gl/sJ5bgx181VcsUxvU9",
@@ -1221,5 +1197,27 @@
     "tur": "Villa",
     "googleMapsLink": "https://maps.app.goo.gl/8mEpmpNwwmYyUsVb6",
     "girisTarifi": "aynı site içerisinde"
+  },
+  {
+    "id": "FL-0112",
+    "ad": "Golden Moon Villa",
+    "alternatifAdlar": [
+      "Villa Golden Moon"
+    ],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/vmnrmB4MWxTmSvdW6",
+    "girisTarifi": "Kapıda Golden Moon Villa Tabelası var, Siyah garaj kapısı"
+  },
+  {
+    "id": "FL-0113",
+    "ad": "Flamingo Sitesi",
+    "alternatifAdlar": [
+      "Flamingo Site"
+    ],
+    "bolge": "Çalış",
+    "tur": "Site",
+    "googleMapsLink": "https://maps.app.goo.gl/14mkDF89vC8zGSs18",
+    "girisTarifi": "Fethiye güzergahında Hotel Club E'den bir sonraki sokak"
   }
 ]
