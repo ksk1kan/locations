@@ -155,7 +155,9 @@
     "id": "FL-0015",
     "ad": "Daphne Residence",
     "alternatifAdlar": [
-      "Defne Residence / Apart / Site"
+      "Defne Residence",
+      "Apart",
+      "Site"
     ],
     "bolge": "Çalış",
     "tur": "Site",
@@ -221,7 +223,8 @@
     "id": "FL-0021",
     "ad": "Villa Lycia",
     "alternatifAdlar": [
-      "Lycia Villa Sarıgerme / Sarıgerme Royal Links"
+      "Lycia Villa Sarıgerme",
+      "Sarıgerme Royal Links"
     ],
     "bolge": "Sarıgerme",
     "tur": "Villa",
@@ -929,7 +932,8 @@
     "id": "FL-0087",
     "ad": "Melissa Villa",
     "alternatifAdlar": [
-      "Villa Melisa / Barry Andrews"
+      "Villa Melisa",
+      "Barry Andrews"
     ],
     "bolge": "Ölüdeniz / Hisarönü",
     "tur": "Villa",
@@ -1054,7 +1058,7 @@
     ],
     "bolge": "Ölüdeniz / Hisarönü",
     "tur": "Villa",
-    "googleMapsLink": "https://maps.app.goo.gl/5GA2cLFcmFZ5wBxw8",
+    "googleMapsLink": "https://maps.app.goo.gl/zfv5aDiPhLwgc7i8A",
     "girisTarifi": ""
   },
   {
@@ -1219,5 +1223,47 @@
     "tur": "Site",
     "googleMapsLink": "https://maps.app.goo.gl/14mkDF89vC8zGSs18",
     "girisTarifi": "Fethiye güzergahında Hotel Club E'den bir sonraki sokak"
+  },
+  {
+    "id": "FL-0114",
+    "ad": "Orka Golden Heights Villas",
+    "alternatifAdlar": [
+      "Orka Golden Height Villa"
+    ],
+    "bolge": "Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/EsLTNsk8hnB9VKJx5",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0115",
+    "ad": "Körfez Mendos Villa",
+    "alternatifAdlar": [],
+    "bolge": "Çalış",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/VvRmP5dGxfC6KVfH7",
+    "girisTarifi": "Bu adres Çalış'da olan Mendos villa DİKKAT!"
+  },
+  {
+    "id": "FL-0116",
+    "ad": "Sun Valley",
+    "alternatifAdlar": [
+      "Sun Valley A6"
+    ],
+    "bolge": "Çalış",
+    "tur": "Apart / Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/fGN3JDUkuNuEDZ3L7",
+    "girisTarifi": ""
+  },
+  {
+    "id": "FL-0117",
+    "ad": "Villa Efe",
+    "alternatifAdlar": [
+      "Efe Villa"
+    ],
+    "bolge": "Ovacık",
+    "tur": "Villa",
+    "googleMapsLink": "https://maps.app.goo.gl/ZHEEL47FNdY1MsBU9",
+    "girisTarifi": ""
   }
 ]
